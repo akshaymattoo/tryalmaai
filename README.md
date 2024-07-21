@@ -34,3 +34,4 @@ We can use any client like postman or insomnia. Type the API and check the resul
 - Would have validated the form on empty submission.
 - Would have deployed it on vercel. I alread had a project running.
 - Would have made it close to designs. My idea here was to make it a working app.
+- Have custome implementation of JsonForms.
