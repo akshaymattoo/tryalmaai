@@ -10,10 +10,10 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 ## How to navigate through the project
 
-Homepage: https://localhost:3000
-Assesment page: https://localhost:3000/assesment
-Leads page: https://localhost:3000/leads
-Thank you page: http://localhost:3000/assessment/thank-you
+- Homepage: https://localhost:3000
+- Assesment page: https://localhost:3000/assesment
+- Leads page: https://localhost:3000/leads
+- Thank you page: http://localhost:3000/assessment/thank-you
 
 `pages` directory has all the routes i.e assesment, thankyou and leads
 
