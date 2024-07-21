@@ -25,7 +25,7 @@ We can use any client like postman or insomnia. Type the API and check the resul
 
 ## Authenticated page
 
-`/leads` is behind a auth system. I am storing the auth value in localStorage. If someone who is logged in the value would `isAuthenticated` would be set to `true`. Otherwise user will be prompted to login and then use the page.
+`/leads` is behind a auth system. I am storing the auth value in localStorage. If someone who is logged in the value would `isAuthenticated` would be set to `true`. Otherwise user will be prompted to login and then use the page. How can we check that? Go to Applications tab in developer console. Click Local Storage and then click http://locahost:3000 there we can see all the localstorage values.
 
 ## What I can do more if I had more time.
 
