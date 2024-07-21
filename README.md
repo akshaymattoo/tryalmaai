@@ -1,5 +1,7 @@
 ## Getting Started
 
+Document for reference https://docs.google.com/document/d/15N2aLYUGceIYylT-p2oFcNO6mU3Swhg6Q_nhk1gHDfg/edit
+
 Go to the project and do git clone.
 Run `npm i`
 Run `npm dev` to run it on local.
